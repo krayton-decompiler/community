@@ -16,6 +16,7 @@ Enjoy a clean, smooth experience. 🌟
 Join the Krayton community today! 🏆
 
 🌐 **Website**: https://krayton-decompiler.github.io/forum
+
 💬 **Discord**: https://discord.gg/wRXYWeaVgK
 @everyone
 🎉 **Krayton is back and better than ever!** 🎉
